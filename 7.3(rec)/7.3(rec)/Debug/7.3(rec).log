@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Visual Studio projects\7.3(rec)\7.3(rec)\Source.cpp(9,31): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio projects\7.3(rec)\7.3(rec)\Source.cpp(16,31): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio projects\7.3(rec)\7.3(rec)\Source.cpp(37,31): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio projects\7.3(rec)\7.3(rec)\Source.cpp(48,31): warning C4018: '<': signed/unsigned mismatch
+  7.3(rec).vcxproj -> D:\Visual Studio projects\7.3(rec)\Debug\7.3(rec).exe

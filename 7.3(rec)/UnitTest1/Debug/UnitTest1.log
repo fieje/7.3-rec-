@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+D:\Visual Studio projects\7.3(rec)\7.3(rec)\Source.cpp(9,31): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio projects\7.3(rec)\7.3(rec)\Source.cpp(16,31): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio projects\7.3(rec)\7.3(rec)\Source.cpp(37,31): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio projects\7.3(rec)\7.3(rec)\Source.cpp(48,31): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\Visual Studio projects\7.3(rec)\Debug\UnitTest1.lib and object D:\Visual Studio projects\7.3(rec)\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Visual Studio projects\7.3(rec)\Debug\UnitTest1.dll
